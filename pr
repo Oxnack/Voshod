@@ -1,0 +1,1568 @@
+{
+    "approxymac": {
+        "Аптеки": false,
+        "Бонусы": true,
+        "Другое": true,
+        "ЖКХ": false,
+        "Маркетплейсы": false,
+        "Местный транспорт": false,
+        "Мобильная связь": false,
+        "Образование": false,
+        "Одежда и обувь": false,
+        "Переводы": false,
+        "Проценты": false,
+        "Различные товары": true,
+        "Супермаркеты": true,
+        "Услуги банка": false,
+        "Фастфуд": false,
+        "Цифровые товары": true
+    },
+    "similar_users_count": 96,
+    "sr_stat_category": {
+        "Duty Free": {
+            "avg_days_between_purchases": 189.25,
+            "purchase_frequency_per_month": 0.16
+        },
+        "Авиабилеты": {
+            "avg_days_between_purchases": 47.12,
+            "purchase_frequency_per_month": 0.64
+        },
+        "Автоуслуги": {
+            "avg_days_between_purchases": 12.54,
+            "purchase_frequency_per_month": 2.39
+        },
+        "Азартные игры и лотереи": {
+            "avg_days_between_purchases": 10.71,
+            "purchase_frequency_per_month": 2.8
+        },
+        "Аптеки": {
+            "avg_days_between_purchases": 18.77,
+            "purchase_frequency_per_month": 1.6
+        },
+        "Аренда авто": {
+            "avg_days_between_purchases": 1.06,
+            "purchase_frequency_per_month": 28.4
+        },
+        "Госуслуги": {
+            "avg_days_between_purchases": 33.06,
+            "purchase_frequency_per_month": 0.91
+        },
+        "Детские товары": {
+            "avg_days_between_purchases": 32.79,
+            "purchase_frequency_per_month": 0.91
+        },
+        "Дом и ремонт": {
+            "avg_days_between_purchases": 14.22,
+            "purchase_frequency_per_month": 2.11
+        },
+        "Другое": {
+            "avg_days_between_purchases": 9.24,
+            "purchase_frequency_per_month": 3.25
+        },
+        "Ж/д билеты": {
+            "avg_days_between_purchases": 28.65,
+            "purchase_frequency_per_month": 1.05
+        },
+        "ЖКХ": {
+            "avg_days_between_purchases": 18.37,
+            "purchase_frequency_per_month": 1.63
+        },
+        "Животные": {
+            "avg_days_between_purchases": 28.3,
+            "purchase_frequency_per_month": 1.06
+        },
+        "Искусство": {
+            "avg_days_between_purchases": 134.15,
+            "purchase_frequency_per_month": 0.22
+        },
+        "Канцтовары": {
+            "avg_days_between_purchases": 109.79,
+            "purchase_frequency_per_month": 0.27
+        },
+        "Каршеринг": {
+            "avg_days_between_purchases": 8.17,
+            "purchase_frequency_per_month": 3.67
+        },
+        "Кино": {
+            "avg_days_between_purchases": 84.94,
+            "purchase_frequency_per_month": 0.35
+        },
+        "Книги": {
+            "avg_days_between_purchases": 33.74,
+            "purchase_frequency_per_month": 0.89
+        },
+        "Косметика": {
+            "avg_days_between_purchases": 57.03,
+            "purchase_frequency_per_month": 0.53
+        },
+        "Красота": {
+            "avg_days_between_purchases": 45.26,
+            "purchase_frequency_per_month": 0.66
+        },
+        "Маркетплейсы": {
+            "avg_days_between_purchases": 10.89,
+            "purchase_frequency_per_month": 2.75
+        },
+        "Медицина": {
+            "avg_days_between_purchases": 38.18,
+            "purchase_frequency_per_month": 0.79
+        },
+        "Местный транспорт": {
+            "avg_days_between_purchases": 10.98,
+            "purchase_frequency_per_month": 2.73
+        },
+        "НКО": {
+            "avg_days_between_purchases": 41.33,
+            "purchase_frequency_per_month": 0.73
+        },
+        "Образование": {
+            "avg_days_between_purchases": 66.93,
+            "purchase_frequency_per_month": 0.45
+        },
+        "Одежда и обувь": {
+            "avg_days_between_purchases": 30.11,
+            "purchase_frequency_per_month": 1.0
+        },
+        "Онлайн-кинотеатры": {
+            "avg_days_between_purchases": 34.32,
+            "purchase_frequency_per_month": 0.87
+        },
+        "Отели": {
+            "avg_days_between_purchases": 42.37,
+            "purchase_frequency_per_month": 0.71
+        },
+        "Переводы": {
+            "avg_days_between_purchases": 0.0,
+            "purchase_frequency_per_month": 2592000.0
+        },
+        "Платные дороги": {
+            "avg_days_between_purchases": 22.14,
+            "purchase_frequency_per_month": 1.35
+        },
+        "Развлечения": {
+            "avg_days_between_purchases": 29.72,
+            "purchase_frequency_per_month": 1.01
+        },
+        "Различные товары": {
+            "avg_days_between_purchases": 15.95,
+            "purchase_frequency_per_month": 1.88
+        },
+        "Рестораны": {
+            "avg_days_between_purchases": 17.27,
+            "purchase_frequency_per_month": 1.74
+        },
+        "Связь": {
+            "avg_days_between_purchases": 23.63,
+            "purchase_frequency_per_month": 1.27
+        },
+        "Сервис": {
+            "avg_days_between_purchases": 26.61,
+            "purchase_frequency_per_month": 1.13
+        },
+        "Спорттовары": {
+            "avg_days_between_purchases": 58.58,
+            "purchase_frequency_per_month": 0.51
+        },
+        "Сувениры": {
+            "avg_days_between_purchases": 48.5,
+            "purchase_frequency_per_month": 0.62
+        },
+        "Супермаркеты": {
+            "avg_days_between_purchases": 1.35,
+            "purchase_frequency_per_month": 22.26
+        },
+        "Такси": {
+            "avg_days_between_purchases": 7.11,
+            "purchase_frequency_per_month": 4.22
+        },
+        "Топливо": {
+            "avg_days_between_purchases": 8.41,
+            "purchase_frequency_per_month": 3.57
+        },
+        "Транспорт": {
+            "avg_days_between_purchases": 8.01,
+            "purchase_frequency_per_month": 3.74
+        },
+        "Турагентства": {
+            "avg_days_between_purchases": 62.79,
+            "purchase_frequency_per_month": 0.48
+        },
+        "Фастфуд": {
+            "avg_days_between_purchases": 4.64,
+            "purchase_frequency_per_month": 6.47
+        },
+        "Финансы": {
+            "avg_days_between_purchases": 43.86,
+            "purchase_frequency_per_month": 0.68
+        },
+        "Фото и видео": {
+            "avg_days_between_purchases": 130.43,
+            "purchase_frequency_per_month": 0.23
+        },
+        "Цветы": {
+            "avg_days_between_purchases": 82.7,
+            "purchase_frequency_per_month": 0.36
+        },
+        "Цифровые товары": {
+            "avg_days_between_purchases": 21.39,
+            "purchase_frequency_per_month": 1.4
+        },
+        "Частные услуги": {
+            "avg_days_between_purchases": 49.12,
+            "purchase_frequency_per_month": 0.61
+        },
+        "Экосистема Яндекс": {
+            "avg_days_between_purchases": 33.14,
+            "purchase_frequency_per_month": 0.91
+        },
+        "Электроника и техника": {
+            "avg_days_between_purchases": 52.14,
+            "purchase_frequency_per_month": 0.58
+        }
+    },
+    "sr_users_zp": "1774.4933333333333333",
+    "transactions": [
+        {
+            "brand_nm": "Сбербанк",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Thu, 10 Apr 2025 19:43:53 GMT",
+            "transaction_amt_rur": 5000.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Пятёрочка",
+            "loyalty_accrual_rub_amt": 9.0,
+            "loyalty_cashback_category_nm": "Супермаркеты",
+            "real_transaction_dttm": "Wed, 09 Apr 2025 21:59:46 GMT",
+            "transaction_amt_rur": 947.99,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Wed, 09 Apr 2025 21:59:46 GMT",
+            "transaction_amt_rur": 2.01,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Wed, 09 Apr 2025 19:20:47 GMT",
+            "transaction_amt_rur": 29.01,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Пятёрочка",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Супермаркеты",
+            "real_transaction_dttm": "Wed, 09 Apr 2025 19:20:47 GMT",
+            "transaction_amt_rur": 70.99,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Wed, 09 Apr 2025 16:12:18 GMT",
+            "transaction_amt_rur": 500.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Wed, 09 Apr 2025 14:52:27 GMT",
+            "transaction_amt_rur": 20.01,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Магнит",
+            "loyalty_accrual_rub_amt": 1.0,
+            "loyalty_cashback_category_nm": "Супермаркеты",
+            "real_transaction_dttm": "Wed, 09 Apr 2025 14:52:27 GMT",
+            "transaction_amt_rur": 179.99,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Fix Price",
+            "loyalty_accrual_rub_amt": 1.0,
+            "loyalty_cashback_category_nm": "Различные товары",
+            "real_transaction_dttm": "Wed, 09 Apr 2025 14:28:07 GMT",
+            "transaction_amt_rur": 138.0,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Wed, 09 Apr 2025 14:28:07 GMT",
+            "transaction_amt_rur": 12.0,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "ВТБ",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Wed, 09 Apr 2025 13:27:02 GMT",
+            "transaction_amt_rur": 6000.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Wed, 09 Apr 2025 13:06:42 GMT",
+            "transaction_amt_rur": 350.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Tue, 08 Apr 2025 14:38:04 GMT",
+            "transaction_amt_rur": 2000.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Стрелка",
+            "loyalty_accrual_rub_amt": 5.0,
+            "loyalty_cashback_category_nm": "Местный транспорт",
+            "real_transaction_dttm": "Mon, 07 Apr 2025 07:27:22 GMT",
+            "transaction_amt_rur": 500.0,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Иви в Т-Банке",
+            "loyalty_accrual_rub_amt": 59.85,
+            "loyalty_cashback_category_nm": "Другое",
+            "real_transaction_dttm": "Sun, 06 Apr 2025 17:09:31 GMT",
+            "transaction_amt_rur": 399.0,
+            "transaction_type_cd": "UCH",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "ВТБ",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sun, 06 Apr 2025 16:16:05 GMT",
+            "transaction_amt_rur": 5000.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sat, 05 Apr 2025 19:14:04 GMT",
+            "transaction_amt_rur": 17.82,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "МосОблЕИРЦ",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "ЖКХ",
+            "real_transaction_dttm": "Sat, 05 Apr 2025 19:14:04 GMT",
+            "transaction_amt_rur": 6532.18,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "ВТБ",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sat, 05 Apr 2025 19:13:46 GMT",
+            "transaction_amt_rur": 6500.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sat, 05 Apr 2025 16:35:24 GMT",
+            "transaction_amt_rur": 1500.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "ВТБ",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sat, 05 Apr 2025 16:34:15 GMT",
+            "transaction_amt_rur": 500.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sat, 05 Apr 2025 16:16:05 GMT",
+            "transaction_amt_rur": 3050.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sat, 05 Apr 2025 10:06:18 GMT",
+            "transaction_amt_rur": 25.4,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Fix Price",
+            "loyalty_accrual_rub_amt": 4.0,
+            "loyalty_cashback_category_nm": "Различные товары",
+            "real_transaction_dttm": "Sat, 05 Apr 2025 10:06:18 GMT",
+            "transaction_amt_rur": 424.6,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Fri, 04 Apr 2025 15:23:23 GMT",
+            "transaction_amt_rur": 1000.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Fri, 04 Apr 2025 14:14:21 GMT",
+            "transaction_amt_rur": 5000.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Внутрибанковский перевод",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Fri, 04 Apr 2025 14:13:37 GMT",
+            "transaction_amt_rur": 59699.78,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Fri, 04 Apr 2025 14:13:37 GMT",
+            "transaction_amt_rur": 59699.78,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "ВТБ",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Fri, 04 Apr 2025 14:13:17 GMT",
+            "transaction_amt_rur": 70000.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Сбербанк",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Fri, 04 Apr 2025 09:48:31 GMT",
+            "transaction_amt_rur": 550.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Одежда и обувь",
+            "real_transaction_dttm": "Thu, 03 Apr 2025 22:13:17 GMT",
+            "transaction_amt_rur": 2390.0,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "ВТБ",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Thu, 03 Apr 2025 22:11:42 GMT",
+            "transaction_amt_rur": 210.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Tue, 01 Apr 2025 20:05:18 GMT",
+            "transaction_amt_rur": 28.0,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Аптека",
+            "loyalty_accrual_rub_amt": 16.0,
+            "loyalty_cashback_category_nm": "Аптеки",
+            "real_transaction_dttm": "Tue, 01 Apr 2025 20:05:18 GMT",
+            "transaction_amt_rur": 322.0,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Tue, 01 Apr 2025 10:07:57 GMT",
+            "transaction_amt_rur": 12.01,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Дикси",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Супермаркеты",
+            "real_transaction_dttm": "Tue, 01 Apr 2025 10:07:57 GMT",
+            "transaction_amt_rur": 37.99,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Различные товары",
+            "real_transaction_dttm": "Tue, 01 Apr 2025 10:03:07 GMT",
+            "transaction_amt_rur": 444.0,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Tue, 01 Apr 2025 10:03:07 GMT",
+            "transaction_amt_rur": 6.0,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sun, 30 Mar 2025 13:26:47 GMT",
+            "transaction_amt_rur": 35.0,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "ВкусВилл",
+            "loyalty_accrual_rub_amt": 4.0,
+            "loyalty_cashback_category_nm": "Супермаркеты",
+            "real_transaction_dttm": "Sun, 30 Mar 2025 13:26:47 GMT",
+            "transaction_amt_rur": 465.0,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Продуктовый магазин",
+            "loyalty_accrual_rub_amt": 5.0,
+            "loyalty_cashback_category_nm": "Супермаркеты",
+            "real_transaction_dttm": "Sat, 29 Mar 2025 14:30:58 GMT",
+            "transaction_amt_rur": 596.0,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sat, 29 Mar 2025 14:30:58 GMT",
+            "transaction_amt_rur": 4.0,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sat, 29 Mar 2025 10:17:21 GMT",
+            "transaction_amt_rur": 3600.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sat, 29 Mar 2025 08:18:07 GMT",
+            "transaction_amt_rur": 1.0,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Яндекс Сервисы",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Цифровые товары",
+            "real_transaction_dttm": "Sat, 29 Mar 2025 08:18:06 GMT",
+            "transaction_amt_rur": 399.0,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Fri, 28 Mar 2025 21:44:23 GMT",
+            "transaction_amt_rur": 25.0,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Одежда и обувь",
+            "real_transaction_dttm": "Fri, 28 Mar 2025 21:44:22 GMT",
+            "transaction_amt_rur": 3025.0,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Fri, 28 Mar 2025 20:20:55 GMT",
+            "transaction_amt_rur": 3000.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Fri, 28 Mar 2025 12:44:29 GMT",
+            "transaction_amt_rur": 11.83,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Пятёрочка",
+            "loyalty_accrual_rub_amt": 3.0,
+            "loyalty_cashback_category_nm": "Супермаркеты",
+            "real_transaction_dttm": "Fri, 28 Mar 2025 12:44:29 GMT",
+            "transaction_amt_rur": 388.17,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Внутрибанковский перевод",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Fri, 28 Mar 2025 12:43:14 GMT",
+            "transaction_amt_rur": 1000.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Услуги банка",
+            "real_transaction_dttm": "Fri, 28 Mar 2025 12:43:13 GMT",
+            "transaction_amt_rur": 319.0,
+            "transaction_type_cd": "FEE",
+            "utilization_flg": "0"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Fri, 28 Mar 2025 12:43:13 GMT",
+            "transaction_amt_rur": 1000.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Make Coffee",
+            "loyalty_accrual_rub_amt": 4.0,
+            "loyalty_cashback_category_nm": "Фастфуд",
+            "real_transaction_dttm": "Thu, 27 Mar 2025 13:14:57 GMT",
+            "transaction_amt_rur": 400.0,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Thu, 27 Mar 2025 10:58:19 GMT",
+            "transaction_amt_rur": 4.0,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Продуктовый магазин",
+            "loyalty_accrual_rub_amt": 5.0,
+            "loyalty_cashback_category_nm": "Супермаркеты",
+            "real_transaction_dttm": "Thu, 27 Mar 2025 10:58:19 GMT",
+            "transaction_amt_rur": 596.0,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Внутрибанковский перевод",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Thu, 27 Mar 2025 10:58:09 GMT",
+            "transaction_amt_rur": 1000.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Thu, 27 Mar 2025 10:58:08 GMT",
+            "transaction_amt_rur": 1000.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Услуги банка",
+            "real_transaction_dttm": "Thu, 27 Mar 2025 10:58:08 GMT",
+            "transaction_amt_rur": 319.0,
+            "transaction_type_cd": "FEE",
+            "utilization_flg": "0"
+        },
+        {
+            "brand_nm": "Fix Price",
+            "loyalty_accrual_rub_amt": 16.0,
+            "loyalty_cashback_category_nm": "Различные товары",
+            "real_transaction_dttm": "Thu, 27 Mar 2025 10:55:56 GMT",
+            "transaction_amt_rur": 1636.0,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Thu, 27 Mar 2025 10:55:56 GMT",
+            "transaction_amt_rur": 14.0,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Внутрибанковский перевод",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Thu, 27 Mar 2025 10:21:12 GMT",
+            "transaction_amt_rur": 2000.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Услуги банка",
+            "real_transaction_dttm": "Thu, 27 Mar 2025 10:21:11 GMT",
+            "transaction_amt_rur": 310.3,
+            "transaction_type_cd": "FEE",
+            "utilization_flg": "0"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Thu, 27 Mar 2025 10:21:11 GMT",
+            "transaction_amt_rur": 2000.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Thu, 27 Mar 2025 08:24:15 GMT",
+            "transaction_amt_rur": 3000.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Внутрибанковский перевод",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Thu, 27 Mar 2025 08:24:00 GMT",
+            "transaction_amt_rur": 2000.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Thu, 27 Mar 2025 08:23:59 GMT",
+            "transaction_amt_rur": 2000.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Wed, 26 Mar 2025 07:59:23 GMT",
+            "transaction_amt_rur": 10750.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Внутрибанковский перевод",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Wed, 26 Mar 2025 07:57:28 GMT",
+            "transaction_amt_rur": 11000.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Wed, 26 Mar 2025 07:57:28 GMT",
+            "transaction_amt_rur": 11000.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Wed, 26 Mar 2025 07:56:40 GMT",
+            "transaction_amt_rur": 1.0,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "WILDBERRIES",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Маркетплейсы",
+            "real_transaction_dttm": "Wed, 26 Mar 2025 07:56:39 GMT",
+            "transaction_amt_rur": 149.0,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Wed, 26 Mar 2025 07:55:14 GMT",
+            "transaction_amt_rur": 1500.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Сбербанк",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Wed, 26 Mar 2025 07:30:24 GMT",
+            "transaction_amt_rur": 1500.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Mon, 24 Mar 2025 14:43:48 GMT",
+            "transaction_amt_rur": 4.0,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Продуктовый магазин",
+            "loyalty_accrual_rub_amt": 5.0,
+            "loyalty_cashback_category_nm": "Супермаркеты",
+            "real_transaction_dttm": "Mon, 24 Mar 2025 14:43:48 GMT",
+            "transaction_amt_rur": 596.0,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Mon, 24 Mar 2025 14:43:40 GMT",
+            "transaction_amt_rur": 1000.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Внутрибанковский перевод",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Mon, 24 Mar 2025 14:43:40 GMT",
+            "transaction_amt_rur": 1000.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Магнит",
+            "loyalty_accrual_rub_amt": 1.0,
+            "loyalty_cashback_category_nm": "Супермаркеты",
+            "real_transaction_dttm": "Mon, 24 Mar 2025 14:39:54 GMT",
+            "transaction_amt_rur": 166.58,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Mon, 24 Mar 2025 14:39:54 GMT",
+            "transaction_amt_rur": 33.42,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Mon, 24 Mar 2025 07:46:01 GMT",
+            "transaction_amt_rur": 3700.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Внутрибанковский перевод",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Mon, 24 Mar 2025 07:44:50 GMT",
+            "transaction_amt_rur": 3700.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Mon, 24 Mar 2025 07:44:49 GMT",
+            "transaction_amt_rur": 3700.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "VK Музыка",
+            "loyalty_accrual_rub_amt": 1.0,
+            "loyalty_cashback_category_nm": "Цифровые товары",
+            "real_transaction_dttm": "Sun, 23 Mar 2025 18:00:46 GMT",
+            "transaction_amt_rur": 169.0,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sun, 23 Mar 2025 18:00:46 GMT",
+            "transaction_amt_rur": 31.0,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sun, 23 Mar 2025 13:47:24 GMT",
+            "transaction_amt_rur": 43.61,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "ВкусВилл",
+            "loyalty_accrual_rub_amt": 13.0,
+            "loyalty_cashback_category_nm": "Супермаркеты",
+            "real_transaction_dttm": "Sun, 23 Mar 2025 13:47:24 GMT",
+            "transaction_amt_rur": 1356.39,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Внутрибанковский перевод",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sun, 23 Mar 2025 13:47:03 GMT",
+            "transaction_amt_rur": 1000.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sun, 23 Mar 2025 13:47:02 GMT",
+            "transaction_amt_rur": 1000.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sat, 22 Mar 2025 19:32:14 GMT",
+            "transaction_amt_rur": 36.72,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Дикси",
+            "loyalty_accrual_rub_amt": 3.0,
+            "loyalty_cashback_category_nm": "Супермаркеты",
+            "real_transaction_dttm": "Sat, 22 Mar 2025 19:32:14 GMT",
+            "transaction_amt_rur": 363.28,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Внутрибанковский перевод",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sat, 22 Mar 2025 19:19:58 GMT",
+            "transaction_amt_rur": 1500.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sat, 22 Mar 2025 19:19:57 GMT",
+            "transaction_amt_rur": 1500.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sat, 22 Mar 2025 17:50:20 GMT",
+            "transaction_amt_rur": 1600.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Внутрибанковский перевод",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sat, 22 Mar 2025 17:50:04 GMT",
+            "transaction_amt_rur": 1500.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sat, 22 Mar 2025 17:50:03 GMT",
+            "transaction_amt_rur": 1500.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sat, 22 Mar 2025 13:00:53 GMT",
+            "transaction_amt_rur": 0.88,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Продуктовый магазин",
+            "loyalty_accrual_rub_amt": 2.0,
+            "loyalty_cashback_category_nm": "Супермаркеты",
+            "real_transaction_dttm": "Sat, 22 Mar 2025 13:00:53 GMT",
+            "transaction_amt_rur": 299.12,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sat, 22 Mar 2025 12:55:53 GMT",
+            "transaction_amt_rur": 11.08,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Магнит",
+            "loyalty_accrual_rub_amt": 6.0,
+            "loyalty_cashback_category_nm": "Супермаркеты",
+            "real_transaction_dttm": "Sat, 22 Mar 2025 12:55:53 GMT",
+            "transaction_amt_rur": 688.92,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Внутрибанковский перевод",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sat, 22 Mar 2025 12:53:42 GMT",
+            "transaction_amt_rur": 1000.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sat, 22 Mar 2025 12:53:41 GMT",
+            "transaction_amt_rur": 1000.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Аптека Ригла",
+            "loyalty_accrual_rub_amt": 11.0,
+            "loyalty_cashback_category_nm": "Аптеки",
+            "real_transaction_dttm": "Sat, 22 Mar 2025 10:27:35 GMT",
+            "transaction_amt_rur": 1171.0,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sat, 22 Mar 2025 10:27:35 GMT",
+            "transaction_amt_rur": 29.0,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Внутрибанковский перевод",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sat, 22 Mar 2025 10:16:51 GMT",
+            "transaction_amt_rur": 1000.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sat, 22 Mar 2025 10:16:50 GMT",
+            "transaction_amt_rur": 1000.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "ВТБ",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sat, 22 Mar 2025 10:11:41 GMT",
+            "transaction_amt_rur": 500.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Одежда и обувь",
+            "real_transaction_dttm": "Fri, 21 Mar 2025 23:40:34 GMT",
+            "transaction_amt_rur": 1355.0,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "ВТБ",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Fri, 21 Mar 2025 23:38:52 GMT",
+            "transaction_amt_rur": 400.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Fri, 21 Mar 2025 08:32:00 GMT",
+            "transaction_amt_rur": 10.0,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Prodamus",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Образование",
+            "real_transaction_dttm": "Fri, 21 Mar 2025 08:32:00 GMT",
+            "transaction_amt_rur": 2490.0,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "ВТБ",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Fri, 21 Mar 2025 08:30:32 GMT",
+            "transaction_amt_rur": 2500.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Thu, 20 Mar 2025 16:57:19 GMT",
+            "transaction_amt_rur": 24837.28,
+            "transaction_type_cd": "RCU",
+            "utilization_flg": "0"
+        },
+        {
+            "brand_nm": "Внутрибанковский перевод",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Thu, 20 Mar 2025 16:57:09 GMT",
+            "transaction_amt_rur": 25000.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Thu, 20 Mar 2025 16:57:08 GMT",
+            "transaction_amt_rur": 25000.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Внутрибанковский перевод",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Thu, 20 Mar 2025 16:53:32 GMT",
+            "transaction_amt_rur": 2180.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Thu, 20 Mar 2025 16:53:31 GMT",
+            "transaction_amt_rur": 2180.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "ВТБ",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Thu, 20 Mar 2025 16:53:17 GMT",
+            "transaction_amt_rur": 3000.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Услуги банка",
+            "real_transaction_dttm": "Thu, 20 Mar 2025 16:16:58 GMT",
+            "transaction_amt_rur": 60.0,
+            "transaction_type_cd": "FEE",
+            "utilization_flg": "0"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Thu, 20 Mar 2025 16:16:28 GMT",
+            "transaction_amt_rur": 4500.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Услуги банка",
+            "real_transaction_dttm": "Thu, 20 Mar 2025 16:16:15 GMT",
+            "transaction_amt_rur": 91.0,
+            "transaction_type_cd": "FEE",
+            "utilization_flg": "0"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Thu, 20 Mar 2025 16:15:18 GMT",
+            "transaction_amt_rur": 595.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Thu, 20 Mar 2025 16:14:27 GMT",
+            "transaction_amt_rur": 895.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Другое",
+            "real_transaction_dttm": "Wed, 19 Mar 2025 23:21:31 GMT",
+            "transaction_amt_rur": 39.0,
+            "transaction_type_cd": "FEE",
+            "utilization_flg": "0"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Проценты",
+            "real_transaction_dttm": "Wed, 19 Mar 2025 22:30:39 GMT",
+            "transaction_amt_rur": 0.1,
+            "transaction_type_cd": "DIN",
+            "utilization_flg": "0"
+        },
+        {
+            "brand_nm": "Пекарня",
+            "loyalty_accrual_rub_amt": 4.0,
+            "loyalty_cashback_category_nm": "Супермаркеты",
+            "real_transaction_dttm": "Wed, 19 Mar 2025 10:20:44 GMT",
+            "transaction_amt_rur": 445.0,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Wed, 19 Mar 2025 10:20:44 GMT",
+            "transaction_amt_rur": 5.0,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Другое",
+            "real_transaction_dttm": "Tue, 18 Mar 2025 23:26:12 GMT",
+            "transaction_amt_rur": 39.0,
+            "transaction_type_cd": "FEE",
+            "utilization_flg": "0"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Tue, 18 Mar 2025 18:26:56 GMT",
+            "transaction_amt_rur": 5.0,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Одежда и обувь",
+            "real_transaction_dttm": "Tue, 18 Mar 2025 18:26:55 GMT",
+            "transaction_amt_rur": 595.0,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Одежда и обувь",
+            "real_transaction_dttm": "Tue, 18 Mar 2025 17:14:27 GMT",
+            "transaction_amt_rur": 335.0,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Tue, 18 Mar 2025 17:14:27 GMT",
+            "transaction_amt_rur": 15.0,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Tue, 18 Mar 2025 07:18:06 GMT",
+            "transaction_amt_rur": 1000.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Другое",
+            "real_transaction_dttm": "Mon, 17 Mar 2025 23:29:14 GMT",
+            "transaction_amt_rur": 39.0,
+            "transaction_type_cd": "FEE",
+            "utilization_flg": "0"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Mon, 17 Mar 2025 18:57:19 GMT",
+            "transaction_amt_rur": 6700.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "МосОблЕИРЦ",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "ЖКХ",
+            "real_transaction_dttm": "Mon, 17 Mar 2025 18:55:52 GMT",
+            "transaction_amt_rur": 6527.68,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "Ozon.ru",
+            "loyalty_accrual_rub_amt": 1.0,
+            "loyalty_cashback_category_nm": "Маркетплейсы",
+            "real_transaction_dttm": "Mon, 17 Mar 2025 13:09:50 GMT",
+            "transaction_amt_rur": 199.0,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Mon, 17 Mar 2025 13:09:50 GMT",
+            "transaction_amt_rur": 1.0,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Другое",
+            "real_transaction_dttm": "Sun, 16 Mar 2025 23:22:07 GMT",
+            "transaction_amt_rur": 39.0,
+            "transaction_type_cd": "FEE",
+            "utilization_flg": "0"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sun, 16 Mar 2025 22:55:18 GMT",
+            "transaction_amt_rur": 46.0,
+            "transaction_type_cd": "ATT",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Бонусы",
+            "real_transaction_dttm": "Sun, 16 Mar 2025 22:50:37 GMT",
+            "transaction_amt_rur": 46.0,
+            "transaction_type_cd": "CHB",
+            "utilization_flg": "0"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Бонусы",
+            "real_transaction_dttm": "Sun, 16 Mar 2025 22:32:42 GMT",
+            "transaction_amt_rur": 39.9,
+            "transaction_type_cd": "CHB",
+            "utilization_flg": "0"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sun, 16 Mar 2025 14:49:09 GMT",
+            "transaction_amt_rur": 520.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Другое",
+            "real_transaction_dttm": "Sat, 15 Mar 2025 23:24:47 GMT",
+            "transaction_amt_rur": 272.0,
+            "transaction_type_cd": "FEE",
+            "utilization_flg": "0"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Sat, 15 Mar 2025 20:38:12 GMT",
+            "transaction_amt_rur": 5.0,
+            "transaction_type_cd": "ATR",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Одежда и обувь",
+            "real_transaction_dttm": "Sat, 15 Mar 2025 20:38:11 GMT",
+            "transaction_amt_rur": 895.0,
+            "transaction_type_cd": "PUC",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "МТС",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Мобильная связь",
+            "real_transaction_dttm": "Fri, 14 Mar 2025 22:21:19 GMT",
+            "transaction_amt_rur": 150.0,
+            "transaction_type_cd": "UCH",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Fri, 14 Mar 2025 12:10:02 GMT",
+            "transaction_amt_rur": 1980.0,
+            "transaction_type_cd": "RET",
+            "utilization_flg": "1"
+        },
+        {
+            "brand_nm": "0",
+            "loyalty_accrual_rub_amt": 0.0,
+            "loyalty_cashback_category_nm": "Переводы",
+            "real_transaction_dttm": "Fri, 14 Mar 2025 11:59:20 GMT",
+            "transaction_amt_rur": 7000.0,
+            "transaction_type_cd": "PAY",
+            "utilization_flg": "1"
+        }
+    ],
+    "user_id": 909779947
+}
