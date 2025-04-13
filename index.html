@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Онлайн Мессенджер</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1 class="main_header">
+        Finance Helper
+    </h1>
+    <h3 class = "main_header">
+        https://github.com/Oxnack/Voshod
+        ссылка на сурс бэкенда и этого фронтенда
+    </h3>
+    <div class="center_elements">
+        <div class="chat-container">
+            <div id="chatBox"></div>
+            <div class="input-area">
+                <input type="text" id="messageInput" placeholder="Введите сообщение..." onkeypress="handleKeyPress(event)">
+                <button onclick="sendMessage()">Отправить</button>
+            </div>
+        </div>
+    </div>
+    <h2>Аналитика</h2>
+    <h3>
+        Баланас
+    </h3>
+    <canvas id="myChart" style="width:100%;max-width:700px"></canvas>
+    <h3>
+        Последние транзакции
+    </h3>
+    <canvas id="transactions" style="width:100%;max-width:700px"></canvas>
+    <h3>Введение данных для аналитики</h3>
+    <select id="payment_selector">
+        <option value=-1>Оплатить</option>
+        <option value=1>Добавить</option>
+    </select>
+    <input type="number" id="amount" placeholder="количество"></input>
+    <button onclick="AddPoint()">Ввести транзакцию</button>
+    <h4>
+        Добавить историю транзакций по ID пользователя
+    </h4>
+    <input type="number" id="userID" placeholder="id"></input>
+    <button onclick="SetID()">Довавить id</button>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
